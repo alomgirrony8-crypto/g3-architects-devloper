@@ -110,7 +110,7 @@ font-size: 4rem;
 
 }
 banner-img{
-width: 100%;
+width:100%;
 
 
 }
@@ -157,7 +157,7 @@ font-weight: 500;
 padding: 45px 42px;
 font-size: 1.5rem;
 font-weight: 500;
-margin-left: -100px;
+margin-right: -100px;
 margin-top: -100px;
 
 
@@ -279,9 +279,6 @@ text-align: center;
   filter: grayscale(75%);
 
 }
-
-
-
 
 
 /* medume size divice ear jonno  */
